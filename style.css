@@ -1,0 +1,57 @@
+/* Style Sheet for BTB */
+
+
+
+header {
+	text-align: center;
+	background-color: #ddd;
+	padding: 1rem;
+}
+
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+	text-align: left;
+}
+
+h2 {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+* {
+	box-sizing: border-box;
+}
+
+main {
+	font-size: 0;
+	max-width: 1200px;
+	margin: 3rem auto;
+
+	background: pink;
+}
+
+
+
+main a {
+	display: inline-block;
+	width: 20%;
+	padding: 1rem;
+	vertical-align: top;
+}
